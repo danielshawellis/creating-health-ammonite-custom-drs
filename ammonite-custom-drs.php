@@ -9,9 +9,9 @@
 
 /**
  * DEVELOPER NOTES:
- * This plugin creates a custom shortcode that is used in the single product templates (WooCommerce Page Builder -> Product Templates)
+ * This plugin creates a custom shortcode ([ammonite_templatera_product_drs]) that is used in the single product templates (WooCommerce Page Builder -> Product Templates)
  * The shortcode pulls in a unique Templatera template (WPBakery Page Builder -> Templatera -> Templates) for each product
- * Templatera templates are associated with products using the WooCommerce product custom filed "ammonite_templatera_product_drs"
+ * Templatera templates are associated with products using the WooCommerce product custom filed "custom-product-drs-templatera-id"
  * This custom field can be found and set here: (Products -> Specific Product -> Custom Fields)
  */
 
